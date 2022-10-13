@@ -1,2 +1,2 @@
-# NetworkProgramming
-Hedspi K64
+# THỰC HÀNH LẬP TRÌNH MẠNG
+# Network Programming Lab
