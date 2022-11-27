@@ -1,0 +1,3 @@
+image1.png /Users/hakudan/Documents/LapTrinhMang/Week6
+image2.png /Users/hakudan/Documents
+image3.png /Users/hakudan/Documents/LapTrinhMang/Week6
